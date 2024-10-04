@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetD4_1 Pin=D4-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Change Designator: Invalid Designator
+Change Designator: Invalid Designator
+Change Designator: Invalid Designator
+Change Designator: Invalid Designator
+Added Pin To Net: NetName=VCC Pin=D4-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Added Room: Name=BTS7960
+Added Room: Name=Controller
+Added Room: Name=MCU
+Added Room: Name=Power

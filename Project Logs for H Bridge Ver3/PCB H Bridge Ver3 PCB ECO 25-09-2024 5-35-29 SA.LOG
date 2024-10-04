@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=U6 Old Footprint=INF-P-TO-263-7-6_L New Footprint=INF-P-TO-263-7-6_M
+Change Component Footprint: Designator=U7 Old Footprint=INF-P-TO-263-7-6_L New Footprint=INF-P-TO-263-7-6_M
+Change Component Footprint: Designator=U8 Old Footprint=INF-P-TO-263-7-6_L New Footprint=INF-P-TO-263-7-6_M
+Change Component Footprint: Designator=U9 Old Footprint=INF-P-TO-263-7-6_L New Footprint=INF-P-TO-263-7-6_M
+Change Component Footprint: Designator=U11 Old Footprint=INF-P-TO-263-7-6_L New Footprint=INF-P-TO-263-7-6_M
+Change Component Footprint: Designator=U12 Old Footprint=INF-P-TO-263-7-6_L New Footprint=INF-P-TO-263-7-6_M
+Change Component Footprint: Designator=U5 Old Footprint=INF-P-TO-263-7-6_N New Footprint=INF-P-TO-263-7-6_M
+Add Component: Footprint Not Found SS34
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Class Member: Failed to add class member : Component D1 D Schottky
+Added Room: Name=BTS7960
+Added Room: Name=Controller
+Added Room: Name=MCU
+Added Room: Name=Power

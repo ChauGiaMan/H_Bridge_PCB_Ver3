@@ -1,0 +1,18 @@
+Add Component: Footprint Not Found SS34
+Added Component: Designator=U14(IS-QFN-24_V)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-8
+Add Pin To Net: Unknown Pin: Pin U14-9
+Add Pin To Net: Unknown Pin: Pin U14-10
+Add Pin To Net: Unknown Pin: Pin U14-12
+Add Pin To Net: Unknown Pin: Pin U14-13
+Add Pin To Net: Unknown Pin: Pin U14-18
+Add Pin To Net: Unknown Pin: Pin U14-20
+Add Pin To Net: Unknown Pin: Pin U14-24
+Add Class Member: Failed to add class member : Component D1 D Schottky
+Add Class Member: Failed to add class member : Component U14 MPU-6050
+Added Room: Name=MCU

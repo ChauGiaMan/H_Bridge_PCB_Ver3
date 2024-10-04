@@ -1,0 +1,16 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=TIM9_A Pin=U3-4
+Removed Pin From Net: NetName=TIM9_B Pin=U3-5
+Change Designator: Invalid Designator
+Change Designator: Invalid Designator
+Change Designator: Invalid Designator
+Change Designator: Invalid Designator
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Added Pin To Net: NetName=TIM9_B Pin=U3-4
+Added Pin To Net: NetName=TIM9_A Pin=U3-5
+Added Room: Name=BTS7960
+Added Room: Name=Controller
+Added Room: Name=MCU
+Added Room: Name=Power

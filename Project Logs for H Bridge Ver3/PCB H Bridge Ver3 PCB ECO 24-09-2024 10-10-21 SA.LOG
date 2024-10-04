@@ -1,0 +1,146 @@
+Removed Pin From Net: NetName=TIM9_A Pin=U3-4
+Removed Pin From Net: NetName=TIM9_B Pin=U3-5
+Removed Pin From Net: NetName=OSC_IN Pin=U3-12
+Removed Pin From Net: NetName=OSC_OUT Pin=U3-13
+Removed Pin From Net: NetName=NRST Pin=U3-14
+Removed Pin From Net: NetName=NetU3_23 Pin=U3-23
+Removed Pin From Net: NetName=NetU3_24 Pin=U3-24
+Removed Pin From Net: NetName=NetR66_1 Pin=U3-25
+Removed Pin From Net: NetName=TX Pin=U3-26
+Removed Pin From Net: NetName=NetU3_30 Pin=U3-30
+Removed Pin From Net: NetName=NetR71_1 Pin=U3-31
+Removed Pin From Net: NetName=NetU3_32 Pin=U3-32
+Removed Pin From Net: NetName=NetU3_33 Pin=U3-33
+Removed Pin From Net: NetName=NetU3_40 Pin=U3-40
+Removed Pin From Net: NetName=NetU3_42 Pin=U3-42
+Removed Pin From Net: NetName=NetU3_47 Pin=U3-47
+Removed Pin From Net: NetName=SDA Pin=U3-48
+Removed Pin From Net: NetName=VCAP_1 Pin=U3-49
+Removed Pin From Net: NetName=NetP5_1 Pin=U3-53
+Removed Pin From Net: NetName=NetP5_2 Pin=U3-54
+Removed Pin From Net: NetName=NetP10_1 Pin=U3-55
+Removed Pin From Net: NetName=NetP10_2 Pin=U3-56
+Removed Pin From Net: NetName=NetR54_2 Pin=U3-59
+Removed Pin From Net: NetName=NetR53_2 Pin=U3-60
+Removed Pin From Net: NetName=NetR52_2 Pin=U3-61
+Removed Pin From Net: NetName=NetR51_2 Pin=U3-62
+Removed Pin From Net: NetName=NetR50_2 Pin=U3-63
+Removed Pin From Net: NetName=NetR49_2 Pin=U3-64
+Removed Pin From Net: NetName=NetR46_2 Pin=U3-65
+Removed Pin From Net: NetName=NetR43_2 Pin=U3-66
+Removed Pin From Net: NetName=NetP13_3 Pin=U3-67
+Removed Pin From Net: NetName=NetQ1_2 Pin=U3-69
+Removed Pin From Net: NetName=SWDIO Pin=U3-72
+Removed Pin From Net: NetName=VCAP_2 Pin=U3-73
+Removed Pin From Net: NetName=SWCLK Pin=U3-76
+Removed Pin From Net: NetName=NetJ5_5 Pin=U3-78
+Removed Pin From Net: NetName=NetJ5_7 Pin=U3-79
+Removed Pin From Net: NetName=NetJ5_6 Pin=U3-80
+Removed Pin From Net: NetName=NetJ5_3 Pin=U3-81
+Removed Pin From Net: NetName=NetJ5_4 Pin=U3-82
+Removed Pin From Net: NetName=NetU3_89 Pin=U3-89
+Removed Pin From Net: NetName=NetU3_90 Pin=U3-90
+Removed Pin From Net: NetName=NetU3_91 Pin=U3-91
+Removed Pin From Net: NetName=NetR62_1 Pin=U3-95
+Removed Pin From Net: NetName=NetU3_96 Pin=U3-96
+Removed Member From Class: ClassName=MCU Member=U?
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Add Component: Footprint Not Found SS34
+Added Component: Designator=SW1(4301x60507x6)
+Add component (AddParameter): Name = "Category"; Value = "Tact Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/430156050726?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "430156050726"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-TATV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "260g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Name"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 SN"; Value = "710-430156050726"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 URL"; Value = "https://www.mouser.vn/ProductDetail/Wurth-Elektronik/430156050726?qs=wr8lucFkNMXAQ5fIFHiwBQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Name"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 SN"; Value = "430156050726-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/430156050726/5209008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 Name"; Value = "Thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 SN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3 URL"; Value = "https://www.thegioiic.com/nut-nhan-6x6mm-cao-5mm-4-chan-xuyen-lo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Component: Designator=U14(IS-QFN-24_V)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Added Pin To Net: NetName=NRST Pin=SW1-A1
+Added Pin To Net: NetName=NRST Pin=SW1-A2
+Added Pin To Net: NetName=GND Pin=SW1-B2
+Added Pin To Net: NetName=TIM9_A Pin=U3-4
+Added Pin To Net: NetName=TIM9_B Pin=U3-5
+Added Pin To Net: NetName=OSC_IN Pin=U3-12
+Added Pin To Net: NetName=OSC_OUT Pin=U3-13
+Added Pin To Net: NetName=NetU3_23 Pin=U3-23
+Added Pin To Net: NetName=NetU3_24 Pin=U3-24
+Added Pin To Net: NetName=NetR66_1 Pin=U3-25
+Added Pin To Net: NetName=TX Pin=U3-26
+Added Pin To Net: NetName=NetU3_30 Pin=U3-30
+Added Pin To Net: NetName=NetR71_1 Pin=U3-31
+Added Pin To Net: NetName=NetU3_32 Pin=U3-32
+Added Pin To Net: NetName=NetU3_33 Pin=U3-33
+Added Pin To Net: NetName=NetU3_40 Pin=U3-40
+Added Pin To Net: NetName=NetU3_42 Pin=U3-42
+Added Pin To Net: NetName=NetU3_47 Pin=U3-47
+Added Pin To Net: NetName=SDA Pin=U3-48
+Added Pin To Net: NetName=VCAP_1 Pin=U3-49
+Added Pin To Net: NetName=NetP5_1 Pin=U3-53
+Added Pin To Net: NetName=NetP5_2 Pin=U3-54
+Added Pin To Net: NetName=NetP10_1 Pin=U3-55
+Added Pin To Net: NetName=NetP10_2 Pin=U3-56
+Added Pin To Net: NetName=NetR54_2 Pin=U3-59
+Added Pin To Net: NetName=NetR53_2 Pin=U3-60
+Added Pin To Net: NetName=NetR52_2 Pin=U3-61
+Added Pin To Net: NetName=NetR51_2 Pin=U3-62
+Added Pin To Net: NetName=NetR50_2 Pin=U3-63
+Added Pin To Net: NetName=NetR49_2 Pin=U3-64
+Added Pin To Net: NetName=NetR46_2 Pin=U3-65
+Added Pin To Net: NetName=NetR43_2 Pin=U3-66
+Added Pin To Net: NetName=NetP13_3 Pin=U3-67
+Added Pin To Net: NetName=NetQ1_2 Pin=U3-69
+Added Pin To Net: NetName=SWDIO Pin=U3-72
+Added Pin To Net: NetName=VCAP_2 Pin=U3-73
+Added Pin To Net: NetName=SWCLK Pin=U3-76
+Added Pin To Net: NetName=NetJ5_5 Pin=U3-78
+Added Pin To Net: NetName=NetJ5_7 Pin=U3-79
+Added Pin To Net: NetName=NetJ5_6 Pin=U3-80
+Added Pin To Net: NetName=NetJ5_3 Pin=U3-81
+Added Pin To Net: NetName=NetJ5_4 Pin=U3-82
+Added Pin To Net: NetName=NetU3_89 Pin=U3-89
+Added Pin To Net: NetName=NetU3_90 Pin=U3-90
+Added Pin To Net: NetName=NetU3_91 Pin=U3-91
+Added Pin To Net: NetName=NetR62_1 Pin=U3-95
+Added Pin To Net: NetName=NetU3_96 Pin=U3-96
+Add Pin To Net: Unknown Pin: Pin U14-1
+Add Pin To Net: Unknown Pin: Pin U14-8
+Add Pin To Net: Unknown Pin: Pin U14-9
+Add Pin To Net: Unknown Pin: Pin U14-10
+Add Pin To Net: Unknown Pin: Pin U14-11
+Add Pin To Net: Unknown Pin: Pin U14-12
+Add Pin To Net: Unknown Pin: Pin U14-13
+Add Pin To Net: Unknown Pin: Pin U14-18
+Add Pin To Net: Unknown Pin: Pin U14-20
+Add Pin To Net: Unknown Pin: Pin U14-23
+Add Pin To Net: Unknown Pin: Pin U14-24
+Add Class Member: Failed to add class member : Component D1 D Schottky
+Added Member To Class: ClassName=Power Member=Component D2 Red, 2V
+Added Member To Class: ClassName=MCU Member=Component SW1 430156050726
+Add Class Member: Failed to add class member : Component U14 MPU-6050

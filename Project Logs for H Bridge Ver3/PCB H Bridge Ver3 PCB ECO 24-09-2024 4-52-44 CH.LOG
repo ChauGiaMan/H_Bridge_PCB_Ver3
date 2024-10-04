@@ -1,0 +1,15 @@
+Change Footprint: Cannot match pads with new footprint in component :HC1 Footprint:PCBComponent_1
+Change Component Footprint: Designator=U14 Old Footprint=IS-QFN-24_V New Footprint=IS-QFN-24_V
+Add Component: Footprint Not Found SS34
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Added Member To Class: ClassName=Controller Member=Component C49 10 nF, 50 VDC
+Added Member To Class: ClassName=Controller Member=Component C51 100nF, 50VDC
+Added Member To Class: ClassName=Controller Member=Component C53 10 uF, 16 VDC
+Add Class Member: Failed to add class member : Component D1 D Schottky
+Added Room: Name=BTS7960
+Added Room: Name=Controller
+Added Room: Name=MCU
+Added Room: Name=Power

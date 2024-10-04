@@ -1,0 +1,21 @@
+Add Component: Footprint Not Found SS34
+Added Component: Designator=HC1(PCBComponent_1)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=NetHC1_1 Pin=HC1-1
+Added Pin To Net: NetName=NetHC1_2 Pin=HC1-2
+Added Pin To Net: NetName=3V3 Pin=HC1-12
+Added Pin To Net: NetName=GND Pin=HC1-13
+Added Pin To Net: NetName=GND Pin=HC1-21
+Added Pin To Net: NetName=GND Pin=HC1-22
+Added Pin To Net: NetName=GND Pin=HC1-22
+Added Pin To Net: NetName=NetHC1_31 Pin=HC1-31
+Added Pin To Net: NetName=NetHC1_34 Pin=HC1-34
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Class Member: Failed to add class member : Component D1 D Schottky
+Added Member To Class: ClassName=Controller Member=Component HC1 HC05
+Added Room: Name=BTS7960
+Added Room: Name=Controller
+Added Room: Name=MCU
+Added Room: Name=Power

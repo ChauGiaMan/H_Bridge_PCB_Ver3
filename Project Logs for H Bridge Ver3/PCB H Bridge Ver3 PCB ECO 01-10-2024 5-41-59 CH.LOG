@@ -1,0 +1,14 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=ENCODER_1A Pin=P4-4
+Change Designator: Invalid Designator
+Change Designator: Invalid Designator
+Change Designator: Invalid Designator
+Change Designator: Invalid Designator
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Change Net Name : Old Net Name=ENCODER_1A New Net Name=ENCODER_1B
+Added Pin To Net: NetName=ENCODER_1A Pin=P4-4
+Added Pin To Net: NetName=ENCODER_1A Pin=R27-1
+Added Pin To Net: NetName=ENCODER_1A Pin=U13-8
+Added Net: Name=ENCODER_1A

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetJ3_1 Pin=U8-4
+Removed Pin From Net: NetName=NetJ3_2 Pin=U9-4
+Add Component: Footprint Not Found SS34
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Added Pin To Net: NetName=NetJ3_2 Pin=U8-4
+Added Pin To Net: NetName=NetJ3_1 Pin=U9-4
+Add Class Member: Failed to add class member : Component D1 D Schottky
+Added Room: Name=BTS7960
+Added Room: Name=Controller
+Added Room: Name=MCU
+Added Room: Name=Power
